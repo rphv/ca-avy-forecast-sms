@@ -1,0 +1,104 @@
+{  
+   "id":"PC-18_2018-01-27T2300_325bf8ff-1aa8-4e9e-bac3-6589fbcdad82",
+   "region":"north-columbia",
+   "forecaster":"mgrist",
+   "dateIssued":"2018-01-28T00:54:24+00:00",
+   "validUntil":"2018-01-28T22:00:00Z",
+   "bulletinTitle":"North Columbia",
+   "highlights":"<p class=\"p_CC664AAA\"><span class=\"s_6A269DDD\">Conditions are tricky with a slowly increasing load over multiple weak layers in the snowpack. Take a conservative approach to your terrain choices.</span></p>",
+   "confidence":"Moderate - Intensity of incoming weather systems is uncertain",
+   "dangerRatings":[  
+      {  
+         "date":"2018-01-28T00:00:00Z",
+         "dangerRating":{  
+            "alp":"3:Considerable",
+            "tln":"3:Considerable",
+            "btl":"2:Moderate"
+         }
+      },
+      {  
+         "date":"2018-01-29T00:00:00Z",
+         "dangerRating":{  
+            "alp":"4:High",
+            "tln":"4:High",
+            "btl":"4:High"
+         }
+      },
+      {  
+         "date":"2018-01-30T00:00:00Z",
+         "dangerRating":{  
+            "alp":"4:High",
+            "tln":"3:Considerable",
+            "btl":"3:Considerable"
+         }
+      }
+   ],
+   "problems":[  
+      {  
+         "type":"Storm Slabs",
+         "elevations":[  
+            "Alp",
+            "Tln",
+            "Btl"
+         ],
+         "aspects":[  
+            "NW",
+            "N",
+            "NE",
+            "E",
+            "W",
+            "SW",
+            "S",
+            "SE"
+         ],
+         "likelihood":"Likely",
+         "expectedSize":{  
+            "min":"1.0",
+            "max":"3.0"
+         },
+         "comment":"<p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">Recent snow and wind have built slabs that can be triggered by the weight of a person. A storm slab could step down to a deeper weak layer, creating a surprisingly large avalanche.</span></p>",
+         "travelAndTerrainAdvice":"<ul class='ttalist'><li>If triggered storm/wind slabs may step down to deeper layers and result in very large avalanches.</li><li>Be very cautious as you transition into wind affected terrain, as wind slabs may be deep and touchy.</li><li>Be aware of the potential for wide propagations.</li></ul>",
+         "icons":{  
+            "elevations":"http://www.avalanche.ca/assets/images/Elevation/Elevation-1-1-1_EN.png",
+            "aspects":"http://www.avalanche.ca/assets/images/Compass/compass-1-1-1-1-1-1-1-1_EN.png",
+            "likelihood":"http://www.avalanche.ca/assets/images/Likelihood/Likelihood-5_EN.png",
+            "expectedSize":"http://www.avalanche.ca/assets/images/size/Size-10-30_EN.png"
+         }
+      },
+      {  
+         "type":"Persistent Slabs",
+         "elevations":[  
+            "Btl",
+            "Tln",
+            "Alp"
+         ],
+         "aspects":[  
+            "NW",
+            "NE",
+            "N",
+            "S",
+            "W",
+            "SW",
+            "E",
+            "SE"
+         ],
+         "likelihood":"Likely - Possible",
+         "expectedSize":{  
+            "min":"2.0",
+            "max":"4.0"
+         },
+         "comment":"<p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">Several weak layers are buried in the snowpack, creating very large avalanches when triggered.</span></p>",
+         "travelAndTerrainAdvice":"<ul class='ttalist'><li>Make conservative terrain choices.</li><li>Avoid steep convexities or areas with a thin or variable snowpack.</li><li>Avoid open slopes and convex rolls where buried surface hoar may be preserved.</li></ul>",
+         "icons":{  
+            "elevations":"http://www.avalanche.ca/assets/images/Elevation/Elevation-1-1-1_EN.png",
+            "aspects":"http://www.avalanche.ca/assets/images/Compass/compass-1-1-1-1-1-1-1-1_EN.png",
+            "likelihood":"http://www.avalanche.ca/assets/images/Likelihood/Likelihood-4_EN.png",
+            "expectedSize":"http://www.avalanche.ca/assets/images/size/Size-20-40_EN.png"
+         }
+      }
+   ],
+   "avalancheSummary":"<p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">On Saturday we received preliminary reports of a human-triggered Size 2.5 avalanche in Glacier National Park, on a south east aspect near 2400m. </span></p><p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">Although the spike of avalanche activity from Wednesday has decreased, on Friday we still received reports of storm slabs to Size 2.5 running on northerly aspects above 1900m. Persistent slabs to Size 3 were also reported on Friday, remote-triggered by humans and also directly triggered by explosives.</span></p><p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">With incremental loading on Sunday, human triggering will remain likely and avalanches could be surprisingly large due to the structure of the snowpack.</span></p>",
+   "snowpackSummary":"<p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">The current snowpack is complex, with three active weak layers that we are monitoring.</span></p><p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">60-90 cm of storm snow sits on a crust and/or surface hoar layer from mid-January. The crust is reportedly widespread, with the possible exception of high elevation north aspects. The mid-January surface hoar is 5 to 20 mm in size and was reported at treeline elevations and possibly higher. The recent storm snow fell with strong south winds, producing wind slabs in lee features at treeline and alpine elevations and in open areas below treeline.</span></p><p class=\"p_CC664AAA\"><span class=\"s_3FE45715\">Deeper in the snowpack, the early-January persistent weak layer is 80 to 100 cm below the surface. It is composed of surface hoar on sheltered slopes as well as sun crust on steep solar aspects and is found at all elevation bands. Snowpack tests show sudden fracture characters and signs of instability such as whumpfs, cracking and avalanches. Another weak layer buried mid-December consisting of a facet/surface hoar/crust combination is buried 100 to 150 cm deep. It is most problematic at and below tree line. A rain crust buried in November is generally 150 to 200 cm deep.</span></p>",
+   "weatherForecast":"<p class=\"p_CC664AAA\"><span class=\"s_6A269DDD\">Sunday: </span><span class=\"s_3FE45715\">10-15 cm snow. Moderate southerly winds. Alpine temperature near -5.</span></p><p class=\"p_CC664AAA\"><span class=\"s_6A269DDD\">Monday: </span><span class=\"s_3FE45715\">15-20 cm snow. Moderate to strong south-westerly winds. Alpine temperature warming in the afternoon to near -1.</span></p><p class=\"p_CC664AAA\"><span class=\"s_6A269DDD\">Tuesday: </span><span class=\"s_3FE45715\">5-15 cm snow. Moderate south-easterly winds. Alpine temperature near -5.</span><span class=\"s_6A269DDD\"> </span></p><p class=\"p_CC664AAA\"><a id='GoToAdded' href=\"http://www.avalanche.ca/weather/forecast\" target=\"_blank\"><span class=\"s_B5813F7D\">More information can be found in the Mountain Weather Forecast. </span></a><span class=\"s_AA239A9B\" /></p>",
+   "dangerMode":"Regular season"
+}
